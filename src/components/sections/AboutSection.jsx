@@ -35,7 +35,7 @@ export function AboutSection() {
             transition={{ duration: 0.6 }}
             className="relative"
           >
-            <img alt="Atelier mécanique professionnel" className="rounded-lg shadow-xl" src="https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f" />
+            <img alt="Atelier mécanique professionnel" className="rounded-lg shadow-xl" src="https://lh3.googleusercontent.com/p/AF1QipN8GMfBOScXDi769UaC3HbQTnbVPWYH1eKE0O5b=s1360-w1360-h1020-rw" />
           </motion.div>
         </div>
       </div>
